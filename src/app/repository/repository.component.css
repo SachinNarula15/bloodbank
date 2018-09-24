@@ -1,0 +1,98 @@
+/* header style */
+p{
+    color: #ffffff;
+    text-align: center;
+    font-size: 40px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: underline;
+}
+/* text $ list style */
+.text{
+    font-size: 20px !important;
+    padding-top: 20px;
+    text-align: justify;
+    text-transform: none;
+    text-decoration: none;
+}
+.table{
+    width: 100%;
+    height: auto;
+    border: 5px solid #ffffff;
+    outline: #000 solid 2px;
+    margin: 0;
+    padding: 10px;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    padding-top: 30px;
+    margin-bottom: -25px;
+    margin-left: -35px;
+}
+.aplus{
+    height: 70%;
+    width: 75%;
+    background-color: red;
+    border: 3px solid #000;
+    border-top: none;
+
+}
+.aplus p{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+    padding-top: 20px;
+}
+.bottle{
+    height: 69%;
+    width: 20%;
+    float: right;
+    background-color: blueviolet;
+    border: 3px solid #000;
+    border-top: none;
+    position: relative;
+    top: -105px;
+
+}
+.bottle p{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+    font-style: normal;
+    padding-top: 20px;
+}
+button{
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    width: 20%;
+    font-size: 20px;
+    position: relative;
+    text-transform: uppercase;
+    z-index: 999;
+    border: none;
+    cursor: pointer;
+    left: 40%;
+    padding: 10px;
+    font-style: oblique;
+    font-weight: 500;
+    text-decoration: none;
+    box-shadow: 5px 10px #000;
+    transition: .2s ease-in-out;
+}
+button a {
+    color: #fff;
+}
+button a:hover{
+    text-decoration: none;
+}
+button:hover{
+    font-size: 25px;
+}

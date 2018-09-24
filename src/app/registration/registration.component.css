@@ -1,0 +1,36 @@
+/* Form */
+h2{
+    color: #fff;
+    font-size: 30px;
+    padding-top: 20px;
+    text-align: center;
+}
+form{
+    width: 80%;
+    height: 80%;
+    background-color: #fff;
+    margin-left: 80px;
+    padding-top: 20px;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+label{
+    font-size: 20px;
+    font-style: oblique;
+    font-weight: 500;
+}
+button{
+    margin-left: 40%;
+    width: 20%;
+    background-color: red;
+    color: #fff;
+    text-transform: uppercase;
+    position: relative;
+    margin-bottom: 30px;
+}
+button a{
+    color: #fff
+}
+button a:hover{
+    text-decoration: none;
+}

@@ -21,7 +21,16 @@
     font-style: oblique;
     font-weight: 500;
     text-decoration: none;
+    transition: .2s ease-in-out;
 }
 .image button a{
     color: #fff;
+}
+.image button a:hover{
+    text-decoration: none;
+    color: red;
+}
+.image button:hover{
+background-color: #fff;
+border: 2px solid red;
 }
