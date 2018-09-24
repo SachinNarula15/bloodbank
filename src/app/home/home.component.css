@@ -1,0 +1,27 @@
+.image img{
+    width: 100%;
+    background-size: cover;
+    background-repeat: no-repeat;
+    margin-top: -18%;
+}
+.image button {
+    background-color: red;
+    color: #fff;
+    text-align: center;
+    width: 20%;
+    font-size: 20px;
+    text-transform: uppercase;
+    z-index: 999;
+    border: none;
+    cursor: pointer;
+    position: absolute;
+    left: 40%;
+    top: 80%;
+    padding: 10px;
+    font-style: oblique;
+    font-weight: 500;
+    text-decoration: none;
+}
+.image button a{
+    color: #fff;
+}
