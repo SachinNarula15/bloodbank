@@ -1,0 +1,79 @@
+.table{
+    width: 30%;
+    height: auto;
+    border: 5px solid #ffffff;
+    outline: #000 solid 2px;
+    margin-top: 30px;
+    padding: 10px;
+    margin-left: 30px;
+    max-height: 870px;
+}
+ul{
+    list-style-type: none;
+}
+ul li{
+    padding-top: 30px;
+    margin-bottom: -25px;
+    margin-left: -35px;
+    padding-bottom: 20px;
+}
+.aplus{
+    height: 70%;
+    width: 75%;
+    background-color: red;
+    border: 3px solid #000;
+    border-top: none;
+
+}
+.aplus p{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    font-style: normal;
+    padding-top: 20px;
+}
+.bottle{
+    height: 69%;
+    width: 20%;
+    float: right;
+    background-color: blueviolet;
+    border: 3px solid #000;
+    border-top: none;
+    position: relative;
+    top: -75px;
+
+}
+.bottle p, p{
+    color: #fff;
+    font-size: 25px;
+    text-align: center;
+    text-decoration: none;
+    padding-top: 12px;
+    font-style: normal;
+    padding-top: 20px;
+}
+p.linetext{
+    position: relative;
+    margin-left: 480px;
+    width: 100%;
+    top: -500px;
+}
+.line{
+    width: 300px;
+    height: 5px;
+    margin-left: 550px;
+    background-color: #fff;
+    position: relative;
+    top: -500px;
+}
+.bucket{
+    width: 28%;
+    left: 1000px;
+    background-color: blueviolet;
+    border: 3px solid #000;
+    border-top: none;
+    position: relative;
+    top: -700px;
+    padding: 15%;
+}
